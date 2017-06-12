@@ -1,0 +1,15 @@
+{
+  "name": "ancientfruit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "plant.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc -p ./src/ && node ./build/plant.js"
+  },
+  "author": "MatthewMMorrow",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^2.3.4"
+  }
+}
